@@ -1,2 +1,2 @@
-# ai-learners-hub
-A meeting point for AI learners
+# CUSAT AI
+A meeting point for AI learners and enthusiasts from CUSAT
