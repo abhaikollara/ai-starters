@@ -10,6 +10,7 @@ This group is intended to be a starting line for new comers to the field of AI. 
 - [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning) : A classic starting point for ML
 - [Coursera: Deep learning specialization](https://www.coursera.org/specializations/deep-learning) : Get started with deep learning. This is a 5 course specialization. Course 1 and 2 should cover the basics.
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) An online book by Micheal Nielsen with a solid coverage of the basics. If you are a reader than a listener this might be a good choice.
+- [Machine Learning Mastery](https://machinelearningmastery.com/start-here/) Lots of useful tutorials
 - [25 Must Know Terms & concepts for Beginners in Deep Learning](https://www.analyticsvidhya.com/blog/2017/05/25-must-know-terms-concepts-for-beginners-in-deep-learning/) A nice little article that explains quite a few basic terms in the field.
 ### Not so basic
 - [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/): A Stanford University course. Excellent starting point to computer vision using deep learning. [YouTube playlist](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
